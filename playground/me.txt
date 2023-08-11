@@ -1,1 +1,7 @@
-rathorshivam30@gmail.com 
+
+
+{{#user}}
+My name is Shivam Rathor.
+Here are my skills : HTML, CSS ,JS , Reacts.js,NodeJS, Express, MongoDB . 
+My email id is rathorshivam30@gmail.com.
+ {{/user}}
